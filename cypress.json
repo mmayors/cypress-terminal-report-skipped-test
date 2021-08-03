@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://google.com",
+  "fixturesFolder": false,
+  "experimentalInteractiveRunEvents": true
+}
