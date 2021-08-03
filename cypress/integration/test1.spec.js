@@ -1,4 +1,3 @@
 it('Test1', () => {
-    cy.skip();
-    cy.log('Executed test 1');
+    cy.log('Executing test 1');
 });

@@ -1,3 +1,5 @@
-it('Test2', () => {
-    cy.log('Executed test 2');
+it('Test2', function () {
+    cy.log('Skipping test 2').then(function () {
+        this.skip();
+    });
 });
